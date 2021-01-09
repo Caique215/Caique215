@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <strong><h1>Caique Souza technologist:</h1></strong> :desktop_computer:
 https://www.linkedin.com/in/caique-souza-a1941811b/?trk=public_profile-settings_edit-profile-content&originalSubdomain=br
 
-##<h1><i>Hellooo! welcome to my profile</i> </h2>:stuck_out_tongue_closed_eyes:	
+<h1><i> <> Hellooo! welcome to my profile </i> </h2>:stuck_out_tongue_closed_eyes:	
 
 <h2>:keyboard: - i really like to lern</h2>
 <h2>:computer_mouse: - i'm working with business intelligence </h2>
