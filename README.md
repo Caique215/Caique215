@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Caique Souza technologist: :desktop_computer:	
+[![Linkedin Badge](https://www.linkedin.com/in/caique-souza-a1941811b/)
+[![Email](ciquesouzresponsa@hotmail.com)
+
+##Hellooo! welcome to my profile :stuck_out_tongue_closed_eyes:	
+
+:keyboard: - i really like to lern
+:computer_mouse: - i'm working with business intelligence 
+:computer: - currently studying HTML5 CSS3 e JAVASCRIPT- I'm looking for help with ...
+:speaking_head: - Ask me about 
+
+
+
+
