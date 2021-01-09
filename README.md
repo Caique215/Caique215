@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Caique Souza technologist: :desktop_computer:	
+Caique Souza technologist: :desktop_computer:
 
-https://www.linkedin.com/in/caique-souza-a1941811b/?trk=public_profile-settings_edit-profile-content&originalSubdomain=br
+
+[![Linkedin Badge]https://www.linkedin.com/in/caique-souza-a1941811b/?trk=public_profile-settings_edit-profile-content&originalSubdomain=br
 
 ##Hellooo! welcome to my profile :stuck_out_tongue_closed_eyes:	
 
