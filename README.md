@@ -21,7 +21,7 @@ Caique Souza technologist: :desktop_computer:
 
 :keyboard: - i really like to lern
 :computer_mouse: - i'm working with business intelligence 
-:computer: - currently studying HTML5 CSS3 e JAVASCRIPT- I'm looking for help with ...
+:computer: - currently studying HTML5 CSS3 e JAVASCRIPT- I'm looking for help with
 :speaking_head: - Ask me about 
 
 
