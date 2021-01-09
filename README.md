@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <strong><h1>Caique Souza technologist:</h1></strong> :desktop_computer:
-https://www.linkedin.com/in/caique-souza-a1941811b/?trk=public_profile-settings_edit-profile-content&originalSubdomain=br
+https://www.linkedin.com/in/caique-souza-a1941811b/
 
 <h1><i> <> Hellooo! welcome to my profile </i> </h2>:stuck_out_tongue_closed_eyes:	
 
