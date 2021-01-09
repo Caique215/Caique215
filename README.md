@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Caique Souza technologist: :desktop_computer:	
-[![Linkedin Badge](https://www.linkedin.com/in/caique-souza-a1941811b/)
-[![Email](ciquesouzresponsa@hotmail.com)
+
 
 ##Hellooo! welcome to my profile :stuck_out_tongue_closed_eyes:	
 
