@@ -21,7 +21,7 @@ https://www.linkedin.com/in/caique-souza-a1941811b/
 
 <h2>:keyboard: - i really like to lern</h2>
 <h2>:computer_mouse: - i'm working with business intelligence </h2>
-<h2>:computer: - currently studying HTML5 CSS3 e JAVASCRIPT 
+<h2>:computer: - currently studying HTML5 CSS3 is JAVASCRIPT 
 <h2>:desktop_computer: - I'm looking for help with</h2>
   <h2>:speaking_head: - Ask me about </h2>
 
