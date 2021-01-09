@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 Caique Souza technologist: :desktop_computer:	
 
+https://www.linkedin.com/in/caique-souza-a1941811b/?trk=public_profile-settings_edit-profile-content&originalSubdomain=br
 
 ##Hellooo! welcome to my profile :stuck_out_tongue_closed_eyes:	
 
