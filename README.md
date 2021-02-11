@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <strong><h1>Caique Souza technologist:</h1></strong> :desktop_computer:
 [My Linkedin](https://www.linkedin.com/in/caique-souza-a1941811b/)
 
-<h2>:computer:[My Portifólio](https://caique215.github.io/caique-meu-projeto/)
+:computer:
+ [My Portifólio](https://caique215.github.io/caique-meu-projeto/)
 <h1><i> <> Hellooo! welcome to my profile </i> </h2>:stuck_out_tongue_closed_eyes:	
 
 <h2>:keyboard: - i really like to lern</h2>
