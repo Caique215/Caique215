@@ -1,6 +1,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Caique215/Caique215)
 ![GitHub](https://img.shields.io/github/license/Caique215/Caique215)
- ![caiqueimg](https://github.com/Caique215/Caique215/blob/main/caiqueimg.png)
+
 ### Hi there 👋
 
 <!--
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 :computer:
  [My Portifólio](https://caique215.github.io/caique-meu-projeto/)
 <h1><i> <> Hellooo! welcome to my profile </i> </h2>:stuck_out_tongue_closed_eyes:	
-
+ ![caiqueimg](https://github.com/Caique215/Caique215/blob/main/caiqueimg.png)
 <h2>:keyboard: - i really like to lern</h2>
 <h2>:computer_mouse: - i'm working with business intelligence </h2>
 <h2>:computer: - currently studying HTML5 CSS3 and JAVASCRIPT 
