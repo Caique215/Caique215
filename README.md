@@ -1,6 +1,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Caique215/Caique215)
 ![GitHub](https://img.shields.io/github/license/Caique215/Caique215)
- ![caiqueimg](  )
+ ![caiqueimg](https://github.com/Caique215/Caique215/blob/main/caiqueimg.png)
 ### Hi there 👋
 
 <!--
