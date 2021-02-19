@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github.com/Caique215/Caique215/blob/main/caiqueimg.png " width="350" title="Meu avatar">
 </p>
-
-
-![caiqueimg](https://github.com/Caique215/Caique215/blob/main/caiqueimg.png)
 <h1><i> <> Hellooo! welcome to my profile </i> </h2>:stuck_out_tongue_closed_eyes:	
 <h2>:keyboard: - i really like to lern</h2>
 <h2>:computer_mouse: - i'm working with business intelligence </h2>
