@@ -28,12 +28,7 @@ Here are some ideas to get you started:
 <h2>:computer: - currently studying HTML5 CSS3 and JAVASCRIPT 
 <h2>:desktop_computer: - I'm looking for help with</h2>
   <h2>:speaking_head: - Ask me about </h2>
-   
-   
-   <pre> <code>
-        
-    </code></pre>
-  
+
   
   
  ![GitHub repo size](https://img.shields.io/github/repo-size/Caique215/Caique215)
