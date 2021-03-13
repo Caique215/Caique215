@@ -1,7 +1,6 @@
 
 
-### Hi there 👋
-
+### Hi there 👋 
 <!--
 **Caique215/Caique215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +21,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github.com/Caique215/Caique215/blob/main/caique.png " width="150" title="Meu avatar">
   </p>
- <h1><i> <> Hellooo! welcome to my profile </i> </h2>:stuck_out_tongue_closed_eyes:	
+ <h1><i> <> Hellooo! welcome to my profile </i> </h2>	
 <h2>:keyboard: -  Você deve fazer o melhor uso possível dos recursos existentes e isso, hoje, significa
 reutilizar objetos e softwares desenvolvidos ao invés de iniciar o processo do zero.</h2>
 <h2>:computer: - currently studying HTML5 CSS3 and JAVASCRIPT 
