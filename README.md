@@ -23,7 +23,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/Caique215/Caique215/blob/main/caique.png " width="150" title="Meu avatar">
   </p>
  <h1><i> <> Hellooo! welcome to my profile </i> </h2>:stuck_out_tongue_closed_eyes:	
-<h2>:keyboard: - i really like to lern</h2>
+  <h2>we will cooperate with open source</h2>
+<h2>:keyboard: -  Você deve fazer o melhor uso possível dos recursos existentes e isso, hoje, significa
+reutilizar objetos e softwares desenvolvidos ao invés de iniciar o processo do zero.</h2>
 <h2>:computer_mouse: - i'm working with business intelligence </h2>
 <h2>:computer: - currently studying HTML5 CSS3 and JAVASCRIPT 
 <h2>:desktop_computer: - I'm looking for help with</h2>
