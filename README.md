@@ -27,7 +27,10 @@ Here are some ideas to get you started:
 <h2>:computer_mouse: - i'm working with business intelligence </h2>
 <h2>:computer: - currently studying HTML5 CSS3 and JAVASCRIPT 
 <h2>:desktop_computer: - I'm looking for help with</h2>
-  <h2>:speaking_head: - Ask me about </h2>
+  <h2>:speaking_head: - Se houver tempo disponível, um software pode ser adequadamente analisado,
+uma solução pode ser compreensivamente planejada, o código-fonte
+cuidadosamente implementado e testado. O problema é que nunca há tempo
+suficiente.(Autor desconhecido)</h2>
 
   
   
