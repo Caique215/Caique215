@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <h2>we will cooperate with open source</h2>
 <h2>:keyboard: -  Você deve fazer o melhor uso possível dos recursos existentes e isso, hoje, significa
 reutilizar objetos e softwares desenvolvidos ao invés de iniciar o processo do zero.</h2>
-<h2>:computer_mouse: - i'm working with business intelligence </h2>
+<h2>:computer_mouse: - Git Github </h2>
 <h2>:computer: - currently studying HTML5 CSS3 and JAVASCRIPT 
 <h2>:desktop_computer: - I'm looking for help with</h2>
   <h2>:speaking_head: - Se houver tempo disponível, um software pode ser adequadamente analisado,
