@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  <h1><i> <> Hellooo! welcome to my profile </i> </h2>	
 <h2>:keyboard: -  Você deve fazer o melhor uso possível dos recursos existentes e isso, hoje, significa
 reutilizar objetos e softwares desenvolvidos ao invés de iniciar o processo do zero.</h2>
-<h2>:computer: - Estudo HTML5 CSS3 e JAVASCRIPT 
+<h2>:computer: - Estudo HTML5, CSS3, JAVASCRIPT, BOOTSTRAP, JQUERY.
   <h2>:speaking_head: - Se houver tempo disponível, um software pode ser adequadamente analisado,
 uma solução pode ser compreensivamente planejada, o código-fonte
 cuidadosamente implementado e testado. O problema é que nunca há tempo
