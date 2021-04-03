@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h2>:keyboard: -  Você deve fazer o melhor uso possível dos recursos existentes e isso, hoje, significa
 reutilizar objetos e softwares desenvolvidos ao invés de iniciar o processo do zero.</h2>
 <h2>:computer: - Estudo HTML5, CSS3, JAVASCRIPT, BOOTSTRAP, JQUERY.
-  <h2>:speaking_head: - Php <3 </h2>
+  <h2>:speaking_head: -No memomento estudando back-end</h2>
 
   
   
