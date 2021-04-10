@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <strong><h1>Caique Souza technologist:</h1></strong> 
-:desktop_computer:[My Linkedin](https://www.linkedin.com/in/caique-souza-a1941811b/)                                   
+:desktop_computer:[My Linkedin](https://www.linkedin.com/in/caique-souza-a1941811b/)    
+:desktop_computer:[ Portfólio](https://caique215.github.io/caique/)
 :desktop_computer:[My Portfólio](https://caique215.github.io/caique-meu-projeto/)
 <p align="center">
   <img src="https://github.com/Caique215/Caique215/blob/main/caique.png " width="150" title="Meu avatar">
