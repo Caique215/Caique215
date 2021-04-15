@@ -15,7 +15,7 @@
 reutilizar objetos e softwares desenvolvidos ao invés de iniciar o processo do zero.</h2>
 <h2>:computer: - Estudo HTML,CSS,JAVASCRIPT, BOOTSTRAP,JQUERY,.NET C#,PHP,NODE.JS,postgreSql.</h2>
   <h2>:speaking_head: -No momento estudando back-end</h2>
-
+<img src="https://github.com/Caique215/Caique215/blob/main/postgree.png" width="150" title="back-end">
 
   
   
