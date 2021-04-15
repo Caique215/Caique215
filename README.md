@@ -1,25 +1,19 @@
 
 
 ### Hi there 👋 
-<!--
+
 **Caique215/Caique215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <strong><h1>Caique Souza technologist:</h1></strong> 
 :desktop_computer:[My Linkedin](https://www.linkedin.com/in/caique-souza-a1941811b/)    
 :desktop_computer:[ Portfólio](https://caique215.github.io/caique/)
 :desktop_computer:[My Portfólio](https://caique215.github.io/caique-meu-projeto/)
-<p align="center">
-  <img src="https://github.com/Caique215/Caique215/blob/main/caique.png " width="150" title="Meu avatar">
-  </p>
- <h1><i> <> Hellooo! welcome to my profile </i> </h2>	
-<h2>:keyboard: -  Você deve fazer o melhor uso possível dos recursos existentes e isso, hoje, significa
-reutilizar objetos e softwares desenvolvidos ao invés de iniciar o processo do zero.</h2>
+<h1><i> <> Hellooo! welcome to my profile </i> </h2>	
+<h2>:keyboard: - Reutilizar objetos e softwares desenvolvidos ao invés de iniciar o processo do zero.</h2>
 <h2>:computer: - Estudo HTML,CSS,JAVASCRIPT, BOOTSTRAP,JQUERY,.NET C#,PHP,NODE.JS,postgreSql.</h2>
   <h2>:speaking_head: -No momento estudando back-end</h2>
-<img src="https://github.com/Caique215/Caique215/blob/main/postgree.png" width="150" title="back-end">
-
-  
-  
- ![GitHub repo size](https://img.shields.io/github/repo-size/Caique215/Caique215)
+  <p align="center">
+  <img src="https://github.com/Caique215/Caique215/blob/main/postgree.png" width="150" title="Back end"> </p>
+![GitHub repo size](https://img.shields.io/github/repo-size/Caique215/Caique215)
  
  
 ![GitHub](https://img.shields.io/github/license/Caique215/Caique215)
