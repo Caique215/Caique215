@@ -12,7 +12,7 @@
 <h2>:computer: - Estudo HTML,CSS,JAVASCRIPT, BOOTSTRAP,JQUERY,.NET C#,PHP,NODE.JS,postgreSql.</h2>
   <h2>:speaking_head: -No momento estudando back-end</h2>
   <p align="center">
-  <img src="https://github.com/Caique215/Caique215/blob/main/postgree.png" width="200px" title="Back end"> </p>
+  <img src="https://github.com/Caique215/Caique215/blob/main/postgree.png" width="200px" height="200px" title="Back end"> </p>
 ![GitHub repo size](https://img.shields.io/github/repo-size/Caique215/Caique215)
  
  
