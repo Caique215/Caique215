@@ -13,10 +13,10 @@
   <h2>:speaking_head: -No momento estudando back-end</h2>
   <p align="center">
   <img src="https://github.com/Caique215/Caique215/blob/main/postgree.png" width="400px" height="200px" title="Back end"> </p>
+  
+  
 ![GitHub repo size](https://img.shields.io/github/repo-size/Caique215/Caique215)
- 
- 
-![GitHub](https://img.shields.io/github/license/Caique215/Caique215)
 
 
 
+![GitHub](https://img.shields.io/github/license/Caique215/Caique215) 
