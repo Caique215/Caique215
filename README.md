@@ -1,8 +1,4 @@
 
-
-### Hi there 👋 
-
-**Caique215/Caique215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <strong><h1>Caique Souza technologist:</h1></strong> 
 :desktop_computer:[My Linkedin](https://www.linkedin.com/in/caique-souza-a1941811b/)    
 :desktop_computer:[ Portfólio](https://caique215.github.io/caique/)
