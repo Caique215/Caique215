@@ -1,6 +1,6 @@
 
 <strong><h1>Caique Souza technologist:</h1></strong> 
-:desktop_computer:[My Linkedin](https://www.linkedin.com/in/caique-souza-a1941811b/)    
+:desktop_computer:[My Linkedin]( linkedin.com/in/caique-s-a1941811b )    
 :desktop_computer:[ Portfólio](https://caique215.github.io/caique/)
 :desktop_computer:[My Portfólio](https://caique215.github.io/caique-meu-projeto/)
 <h1><i> <> Hellooo! welcome to my profile </i> </h2>	
