@@ -12,7 +12,7 @@
    
    
   <p align="center">
-      <img src="https://github.com/Caique215/Caique215/blob/main/lim.png" width="500px" height="450px" title="Back end"> </p>
+      <img src="https://github.com/Caique215/Caique215/blob/main/lim.png" width="100px" height="150px" title="Back end"> </p>
   <p>Baixe meu currículo</p>
   
   
