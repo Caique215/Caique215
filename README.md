@@ -6,7 +6,7 @@
 
 :desktop_computer:[Linkedin](https://www.linkedin.com/in/caique-s-a1941811b/)    
 :desktop_computer:[Portfólio](https://caique215.github.io/gg/)
-:desktop_computer:[INSTAGRAM](https://www.instagram.com/caiquewebdesenvolvedor2925/)
+
 :desktop_computer:[YouTube](https://www.youtube.com/watch?v=04Rae-kNrSw/)
 <h1><i><strong> <> Helloo! welcome to my profile</strong>  </i> </h1>	
    
